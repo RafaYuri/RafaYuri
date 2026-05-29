@@ -46,7 +46,7 @@ Prezo muito pela honestidade intelectual: meu grande foco e domínio estão no e
 </div>
 <br>
 
-- **Linguagem Principal:** C++ (C++11 ao C++26)
+- **Linguagem Principal:** C++
 - **Frameworks e Bibliotecas:** OpenMP (Computação Paralela), OpenCV (Visão Computacional), Qt6 (Interfaces Gráficas)
 - **Compiladores e Profilers:** GCC (g++), Clang, GDB, Valgrind
 - **Build e Versionamento:** CMake, Git, GitHub
