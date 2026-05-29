@@ -29,7 +29,7 @@ Minha trajetória acadêmica foi inteiramente construída na **Universidade Fede
 
 ## 💻 Competências e Stack Tecnológico
 
-Prezo muito pela honestidade intelectual: meu grande foco e domínio estão no ecossistema **C++**. Embora eu já tenha feito usos pontuais de linguagens como Python e HTML, minha verdadeira especialidade é extrair o máximo de performance, estabilidade e tipagem forte usando C++ moderno.
+Prezo muito pela honestidade intelectual: meu grande foco e domínio, e também minha paixão, estão no ecossistema **C++**. Embora eu já tenha feito usos pontuais de linguagens como Python e HTML, minha verdadeira especialidade é transformar problemas do mundo real em linhas de código em C++.
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
